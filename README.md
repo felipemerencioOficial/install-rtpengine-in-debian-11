@@ -1,6 +1,6 @@
 # Install RTPEngine in Debian 11
 
-1. Add the text down in the last line in the file /etc/apt/sources.list.  
+1. Add the text below in the last line in the file /etc/apt/sources.list.  
 ```
 deb http://ftp.de.debian.org/debian sid main 
 ```
